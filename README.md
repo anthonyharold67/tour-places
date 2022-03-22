@@ -29,7 +29,7 @@ SOLUTION
 ```
 
 
-![tourPlaces](tour-project.gif)
+![tourPlaces](tour-places.gif)
 
 
 
