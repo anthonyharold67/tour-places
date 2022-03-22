@@ -14,3 +14,6 @@
     font-size: 1.5rem;
     font-family: 'Amatic SC', cursive;
 }
+.navbar a:hover{
+    background-color:#0DCAF0;
+}
